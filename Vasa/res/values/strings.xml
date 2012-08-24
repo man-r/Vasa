@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Vasa</string>
+    <string name="hello_world">Click and say something!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_vasa">Vasa</string>
+
+</resources>
